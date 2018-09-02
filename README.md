@@ -24,6 +24,6 @@ This piece of work is done in 6 phase
 
 Load the .csv file
 
-Check the file in different parameter
+Check the file in different parameters
 
 The output is generated
