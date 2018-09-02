@@ -17,6 +17,9 @@ Anomaly Detection using Gaussian (Normal) Distribution
 
 
 Load the .csv file
+
 Check the file in different parameter
+
 Then using * algo get the binary value
+
 The output is generated
