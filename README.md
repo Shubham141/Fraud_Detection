@@ -5,7 +5,7 @@ Fraud_Detection_Complete.ipynb
 
 Steps:
 
-This piece of work is done in 6 phase
+This piece of work is done in 7 phase
 
 *******Data Visualization for checking the distribution for Genuine cases & Fraud cases for each feature
 
